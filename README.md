@@ -1,6 +1,8 @@
 ## Jordan Manu
 
-I am a driven, ambitious and outgoing individual that is looking to bring a unique twist to the software industry. I am best known for my contagious positive personality, willingness to take on any challenge thrown at me, and my ability to adapt to any situation (I thank being a Gemini for that one!). 
+#### Me, in a nutshell.
+
+I am a driven, ambitious and outgoing individual that is looking to bring a unique twist to the software industry. I am best known for my contagious positive personality, my willingness to take on new challenges, and my ability to adapt to any situation (I thank being a Gemini for that one!). 
 
 <!-- 
 ## Projects
@@ -26,39 +28,19 @@ _Your job title_
 
 #### Adaptable
 
+One of my favourite skills is my ability to adapt. Whether it's acting in a Special K commercial #(Add link), moving solo to Canada without knowing a single soul there, or quitting my full time job to dive into the world of code! 
+Part of being adaptable, is having a willingness to learn and grow. Curious by nature, I have an unlimited thirst to learn and succeed in what I do.
+My adaptability, combined with being a quick learner really accelerates my personal and professional growth, and it is with this spirit that I applied to Makers to begin life as a Software Developer. 
+
 #### Communication
+
+I pride myself on my communication skills. I have worked in many customer facing roles (often dealing with some not so nice customers), as well as management roles, sometimes having to manage upwards of 50 staff. These have both taught me how to communicate with my peers in a professional way, how to give feedback and recieve criticism in an effective way and most importantly, how to convey ideas and strategies. 
 
 #### Driven
 
-#### 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+Having worked in the sales industry for numerous years, I have always had the ambition and drive to not only meet, but exceed my targets. I feel that this, combined with being a competitive Australian, really ignites my love for solving problems and overcoming challenges. 
+I recieved the 'Best Newcomer' award, and finished in the top 3 sales consultants in the company when I worked at MOJO Homes.
 
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
