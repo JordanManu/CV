@@ -1,13 +1,14 @@
-## Your Name
+## Jordan Manu
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a driven, ambitious and outgoing individual that is looking to bring a unique twist to the software industry. I am best known for my contagious positive personality, willingness to take on any challenge thrown at me, and my ability to adapt to any situation (I thank being a Gemini for that one!). 
 
+<!-- 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Something else worked on** | A webapp to do y. | Ruby              | -->
 
 ## Work Experience
 
@@ -23,8 +24,16 @@ _Your job title_
 
 ## Skills
 
+#### Adaptable
+
+#### Communication
+
+#### Driven
+
+#### 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
+
 
 -STAR
 -What was the situation/task? (ST)
