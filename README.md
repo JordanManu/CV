@@ -9,10 +9,16 @@ I am a driven, ambitious and outgoing individual that is looking to bring a uniq
 
 **EdUp**
 
+Worked as part of a team to build a web app that will be used for communication between schools and parents. Parents can make payments with text confirmation, use the live chat and get the latest notifications
+Tech stack: Express, Nodemon, Handlebars, Mongoose, Cypress, Jest, ESLint, Bootstrap, Bcrypt
+
 **Acebook**
+Worked as part of a team to build Facebook clone
+Tech Stack: Express, Nodemon, Handlebars, Mongoose, Cypress, Jest, ESLint, Bootstrap, Bcrypt
 
 **MakersBNB**
-
+Worked as part of a team to build AirBnb clone
+Tech stack: Ruby, Sinatra, PostgreSQL, RSpec, Capybara
 
 ## Skills
 
