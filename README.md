@@ -7,10 +7,11 @@ I am a driven, ambitious and outgoing individual that is looking to bring a uniq
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+**EdUp**
+
+**Acebook**
+
+**MakersBNB**
 
 
 ## Skills
@@ -33,18 +34,13 @@ I pride myself on my communication skills. I have worked in many customer facing
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Feb 22 - Jun 22)
 - Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
-
-#### Switch on Health College, Australia (Sept '19 - Sept '20)
-
-- Advanced Diploma of Naturopathy 
-- Completed first year 
 
 ## Work Experience
 
