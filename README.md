@@ -1,8 +1,8 @@
 ## Jordan Manu
 
-#### Me, in a nutshell.
+#### Career Profile
 
-I am a driven, ambitious and outgoing individual that is looking to bring a unique twist to the software industry. I am best known for my contagious positive personality, my willingness to take on new challenges, and my ability to adapt to any situation (I thank being a Gemini for that one!). 
+I am a motivated software developer graduate from the highly selective Makers Academy, with a love for data, design and getting things done! Seeking to use proven skills in Ruby, Test driven development, problem solving and debugging.
 
 
 ## Projects
@@ -41,12 +41,17 @@ I pride myself on my communication skills. I have worked in many customer facing
 ## Education
 
 #### Makers Academy (Feb 22 - Jun 22)
-- Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+• An intensive and highly selective 16 week coding bootcamp.
+• Ruby (RSpec, Capybara, Sinatra)
+• JavaScript (Jest, Node, React, Express, Cypress)
+• SQL (PostgreSQL, TablePlus)
+• No SQL (MongoDB)
+• The fundamentals of Object Oriented Programming, Test driven
+development and Model, view, controller framework.
+• Frequent pair programming to build projects, problem solve and
+debug code with a focus on working agilely.
+• Group projects focusing on high quality work with clean, buildable
+code and effective teamwork.
 
 ## Work Experience
 
