@@ -14,10 +14,12 @@ Worked as part of a team to build a web app that will be used for communication 
 Tech stack: Express, Nodemon, Handlebars, Mongoose, Cypress, Jest, ESLint, Bootstrap, Bcrypt
 
 **[Acebook](https://github.com/JordanManu/acebook-metaperverse)**
+
 Worked as part of a team to build Facebook clone
 Tech Stack: Express, Nodemon, Handlebars, Mongoose, Cypress, Jest, ESLint, Bootstrap, Bcrypt
 
 **[MakersBNB](https://github.com/JordanManu/makers_bnb)**
+
 Worked as part of a team to build AirBnb clone
 Tech stack: Ruby, Sinatra, PostgreSQL, RSpec, Capybara
 
