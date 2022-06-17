@@ -7,16 +7,17 @@ I am a motivated software developer graduate from the highly selective Makers Ac
 
 ## Projects
 
-**EdUp**
+
+**[EdUp](https://github.com/JordanManu/EdUp)**
 
 Worked as part of a team to build a web app that will be used for communication between schools and parents. Parents can make payments with text confirmation, use the live chat and get the latest notifications
 Tech stack: Express, Nodemon, Handlebars, Mongoose, Cypress, Jest, ESLint, Bootstrap, Bcrypt
 
-**Acebook**
+**[Acebook](https://github.com/JordanManu/acebook-metaperverse)**
 Worked as part of a team to build Facebook clone
 Tech Stack: Express, Nodemon, Handlebars, Mongoose, Cypress, Jest, ESLint, Bootstrap, Bcrypt
 
-**MakersBNB**
+**[MakersBNB](https://github.com/JordanManu/makers_bnb)**
 Worked as part of a team to build AirBnb clone
 Tech stack: Ruby, Sinatra, PostgreSQL, RSpec, Capybara
 
