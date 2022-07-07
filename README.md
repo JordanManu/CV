@@ -44,16 +44,16 @@ I pride myself on my communication skills. I have worked in many customer facing
 ## Education
 
 #### Makers Academy (Feb 22 - Jun 22)
-• An intensive and highly selective 16 week coding bootcamp.
-• Ruby (RSpec, Capybara, Sinatra)
-• JavaScript (Jest, Node, React, Express, Cypress)
-• SQL (PostgreSQL, TablePlus)
-• No SQL (MongoDB)
-• The fundamentals of Object Oriented Programming, Test driven
+- An intensive and highly selective 16 week coding bootcamp.
+- Ruby (RSpec, Capybara, Sinatra)
+- JavaScript (Jest, Node, React, Express, Cypress)
+- SQL (PostgreSQL, TablePlus)
+- No SQL (MongoDB)
+- The fundamentals of Object Oriented Programming, Test driven
 development and Model, view, controller framework.
-• Frequent pair programming to build projects, problem solve and
+- Frequent pair programming to build projects, problem solve and
 debug code with a focus on working agilely.
-• Group projects focusing on high quality work with clean, buildable
+- Group projects focusing on high quality work with clean, buildable
 code and effective teamwork.
 
 ## Work Experience
